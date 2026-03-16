@@ -1,0 +1,16 @@
+# Environments
+venv/
+env/
+.venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Data files (Never commit telemetry logs!)
+data/
+*.csv
+*.parquet
+
+# OS generated files
+.DS_Store
